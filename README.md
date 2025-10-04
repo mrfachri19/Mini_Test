@@ -1,0 +1,7 @@
+Soal Test 1
+<img width="811" height="195" alt="image" src="https://github.com/user-attachments/assets/f375c02a-ee21-485e-8a10-1617b822cc08" />
+
+Soal Test 2
+
+<img width="465" height="116" alt="image" src="https://github.com/user-attachments/assets/f49f556d-95a1-4442-a291-8935f8f0d583" />
+
